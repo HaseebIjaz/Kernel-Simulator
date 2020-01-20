@@ -7,3 +7,6 @@ Simulated following functions of Process management module:
  • Process Scheduling (Round Robin Only). 
 • Context Switching. 
 • Mechanism for Inter-Process communication and process synchronization.
+
+
+OS Requirements : Linux OS
